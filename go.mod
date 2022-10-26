@@ -1,3 +1,3 @@
-module github.com/agilistikmal/atm
+module github.com/Agilistikmal/atm
 
 go 1.19
