@@ -2,6 +2,6 @@ package menu
 
 import "fmt"
 
-func tarik_tunai() {
+func TarikTunai() {
 	fmt.Println("Tarik tunai")
 }
